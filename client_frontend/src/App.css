@@ -1,10 +1,7 @@
-* {
-  height: 100vh;
-  width: 100vw;
-  margin: 0 auto;
-  text-align: center;
+
+*{
+  margin: 0;
 }
-/* Use height in em */
 
 .main-container{
   display: flex;
